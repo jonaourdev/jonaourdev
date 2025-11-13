@@ -6,7 +6,7 @@
 <!-- Socials -->
 <p align="center">
    <kbd>
-  <a href="https://www.linkedin.com/in/jos%C3%A9-naour-5a92a131b/" title="LinkedIn - P."><img src="https://img.shields.io/badge/-P.-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>  
+  <a href="https://www.linkedin.com/in/jos%C3%A9-naour-5a92a131b/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
   </kbd>
 </p>
   
