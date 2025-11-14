@@ -13,7 +13,7 @@
 <p>Actualmente estoy estudiando Ingeniería en Informática en DuocUC y me encuentro cursando mi segundo año.</p>
 
 <!-- Bagdes -->
-<img src="{[BadgeURLHere](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)}" />
+<img src="{[https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB]}" />
 
   
 
