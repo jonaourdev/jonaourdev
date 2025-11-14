@@ -1,8 +1,9 @@
 <!-- Title -->
 <h1 align="center">José Naour</h1>
 
+<!-- Sobre mí -->
+<h3>Sobre mi</h3>
 <!-- Contact and keys -->
-
 <!-- Socials -->
 <p align="center">
    <kbd>
