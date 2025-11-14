@@ -1,15 +1,20 @@
 <!-- Title -->
 <h1 align="center">José Naour</h1>
 
-<!-- Sobre mí -->
-<h3>Sobre mi</h3>
-<!-- Contact and keys -->
 <!-- Socials -->
 <p align="center">
    <kbd>
   <a href="https://www.linkedin.com/in/jos%C3%A9-naour-5a92a131b/" title="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0072b1?style=flat&logo=linkedin&logoColor=white" /></a>  
   </kbd>
 </p>
+
+<!-- Sobre mí -->
+<h3>Sobre mi</h3>
+<p>Actualmente estoy estudiando Ingeniería en Informática en DuocUC y me encuentro cursando mi segundo año.</p>
+
+<!-- Bagdes -->
+![image]({[BadgeURLHere](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)})	
+
   
 
 <!-- Snek -->   
