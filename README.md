@@ -10,7 +10,7 @@
 
 <!-- Sobre mí -->
 <h3>Sobre mi</h3>
-<p>Actualmente estoy estudiando Ingeniería en Informática en DuocUC y me encuentro cursando mi segundo año.</p>
+<p>Actualmente estoy estudiando Ingeniería en Informática en DuocUC y me encuentro cursando mi tercer año.</p>
 
 <!-- Bagdes -->
 <p align="center">
